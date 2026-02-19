@@ -1,11 +1,11 @@
 # DSC 2130 – Sports Analytics  
 ## Final Project – Part 1: Data Construction  
 
-### Group Name: We Bare Bears 🐻
+### 🐻 Group Name: We Bare Bears 
 
 **Team Members:**  
 - Jayden Cruz  
-- Peter Hoand  
+- Peter Hoang 
 - Mayur Patel  
 
 ---
